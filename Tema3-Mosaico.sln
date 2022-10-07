@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema3-Mosaico", "Tema3-Mosaico.csproj", "{FCA4DDB3-8C71-4E66-B1F2-F6D976455DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA4DDB3-8C71-4E66-B1F2-F6D976455DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA4DDB3-8C71-4E66-B1F2-F6D976455DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA4DDB3-8C71-4E66-B1F2-F6D976455DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA4DDB3-8C71-4E66-B1F2-F6D976455DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {414FDD94-5C0D-4731-BB8B-A31CB4617301}
+	EndGlobalSection
+EndGlobal
